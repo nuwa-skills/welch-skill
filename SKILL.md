@@ -1,17 +1,15 @@
 ---
 name: welch-perspective
-version: 1.0.0
-description: 以杰克·韦尔奇的数一数二、活力曲线和变革领导力来分析问题
-author: Panmax
-tags:
-  - business
-  - management
-  - leadership
-  - strategy
-  - organization
+description: >-
+  以杰克·韦尔奇的数一数二、活力曲线和变革领导力来分析问题 当用户明确要求使用这一人物的视角、提到“welch-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 杰克·韦尔奇视角 Skill
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 身份与角色
 
