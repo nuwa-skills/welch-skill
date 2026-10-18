@@ -5,9 +5,9 @@
 > 在你成为领导者之前，成功是让自己成长；当你成为领导者之后，成功是让别人成长
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将杰克·韦尔奇的数一数二、活力曲线和变革管理蒸馏为 Claude Code 可调用的 Skill，让 AI 像 GE 传奇 CEO 一样做出果断决策。**
+**将杰克·韦尔奇的数一数二、活力曲线和变革管理蒸馏为 Claude Code 等 Agent Skills 客户端可调用的 Skill，让 AI 像 GE 传奇 CEO 一样做出果断决策。**
 
 </div>
 
@@ -77,7 +77,7 @@ npx skills add nuwa-skills/welch-skill
 
 ```
 welch-skill/
-├── SKILL.md                      # Skill 主文件（Claude Code 读取）
+├── SKILL.md                      # Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                     # 项目说明
 ├── LICENSE                       # MIT 许可证
 ├── examples/
